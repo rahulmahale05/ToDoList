@@ -1,4 +1,4 @@
-# React + Vite
+# To-Do List
 
 A simple and responsive Todo List application built with React and Tailwind CSS. Add, edit, and delete tasks with an intuitive interface and modern styling.
 
